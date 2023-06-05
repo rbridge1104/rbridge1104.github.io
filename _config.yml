@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   This site is mainly for me to document the various tech learning journies I am taking.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://rbridge1104.github.io"
+url: "https://rbridge1104.github.io/"
 
 github:
   username: rbridge1104 # change to your github username
